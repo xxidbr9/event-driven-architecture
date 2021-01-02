@@ -1,6 +1,6 @@
 
 <h1 align="center">Cornflix Apps | Spin-off Netflix</h1>
-# event-driven-architecture Project
+
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
 
 ### Purpose 
