@@ -1,10 +1,12 @@
+
+<h1 align="center">Cornflix Apps | Spin-off Netflix</h1>
 # event-driven-architecture Project
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
 
 ### Purpose 
 The purposes I create this project to challenge myself @xxidbr9 for building and full-service apps that implementing the Event-driven architecture, here some of the stacks that I probably will use :
 
-
+<img src="./.github/image/header_.png" >
 #### Backend :
 ~ Tools :
 - Docker
