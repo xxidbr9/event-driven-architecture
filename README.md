@@ -63,4 +63,5 @@ it is tested on my device : Iphone 8 Plus
 -   Instagram: [@dailydevelopers](https://instagram.com/dailydevelopers)
 -   Github: [@xxidbr9](https://github.com/xxidbr9)
 -   LinkedIn: [@xxidbr9](https://linkedin.com/in/xxidbr9)
+-   Medium : [@xxidbr9](https://medium/@xxidbr9)
 
