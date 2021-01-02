@@ -52,14 +52,7 @@ For now, Only Focus to Developing The Custumer Apps
 </p>
 
 it is tested on my device : Iphone 8 Plus
-
-
-### 🏠 [Homepage](https://github.com/xxidbr9/dailydevelopers)
-
-## About Me
-
-👤 **Barnando Akbarto Hidayatullah**
-
+### Follow Me on
 -   Instagram: [@dailydevelopers](https://instagram.com/dailydevelopers)
 -   Github: [@xxidbr9](https://github.com/xxidbr9)
 -   LinkedIn: [@xxidbr9](https://linkedin.com/in/xxidbr9)
