@@ -1,6 +1,11 @@
 <p align="center">
   <img src="./.github/image/Cornflix.svg" align="center">
 </p>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 <h1 align="center">Cornflix Apps | Netflix Spin-off </h1>
 
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
@@ -47,3 +52,15 @@ For now, Only Focus to Developing The Custumer Apps
 </p>
 
 it is tested on my device : Iphone 8 Plus
+
+
+### 🏠 [Homepage](https://github.com/xxidbr9/dailydevelopers)
+
+## About Me
+
+👤 **Barnando Akbarto Hidayatullah**
+
+-   Instagram: [@dailydevelopers](https://instagram.com/dailydevelopers)
+-   Github: [@xxidbr9](https://github.com/xxidbr9)
+-   LinkedIn: [@xxidbr9](https://linkedin.com/in/xxidbr9)
+
