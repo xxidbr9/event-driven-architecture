@@ -1,4 +1,4 @@
-
+<img src="./.github/image/Cornflix.svg" align="center" style="position:absolute; left:50%; right:50%;">
 <h1 align="center">Cornflix Apps | Netflix Spin-off </h1>
 
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
