@@ -4,7 +4,7 @@
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
 
 ### Purpose 
-The purposes I create this project is to challenge myself [xxidbr9](https://github.com/xxidbr9) for building and full-service apps that implementing the Event-driven architecture, here some of the stacks that I probably will use :
+The purposes I create this project is to challenge myself [xxidbr9](https://github.com/xxidbr9) for building a full-service apps that implementing the Event-driven Microservice architecture, here some of the stacks that I probably will use :
 
 <img src="./.github/image/header_.png" >
 
