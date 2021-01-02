@@ -1,5 +1,5 @@
 
-<h1 align="center">Cornflix Apps | Spin-off Netflix</h1>
+<h1 align="center">Cornflix Apps | Netflix Spin-off </h1>
 
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
 
