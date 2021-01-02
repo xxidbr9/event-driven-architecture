@@ -43,3 +43,5 @@ For now, Only Focus to Developing The Custumer Apps
 
 <small><b>Under Creating</b></small>
 </div>
+
+it is tested on my device : Iphone 8 Plus
