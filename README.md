@@ -4,7 +4,7 @@
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
 
 ### Purpose 
-The purposes I create this project to challenge myself @xxidbr9 for building and full-service apps that implementing the Event-driven architecture, here some of the stacks that I probably will use :
+The purposes I create this project is to challenge myself @xxidbr9 for building and full-service apps that implementing the Event-driven architecture, here some of the stacks that I probably will use :
 
 <img src="./.github/image/header_.png" >
 
@@ -34,3 +34,4 @@ The purposes I create this project to challenge myself @xxidbr9 for building and
 #### Frontend
 And for the Frontend itself self I'm gonna use React Native For the Customer Apps, and use Next Js for WebBase App and React For Admin.
 For now, Only Focus to Developing The Custumer Apps
+
