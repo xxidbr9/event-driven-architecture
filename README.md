@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/image/Cornflix.svg" align="center">
+  <img src="./.github/image/Cornflix.svg" align="center" width="300px">
 </p>
 <p>
   <a href="#" target="_blank">
