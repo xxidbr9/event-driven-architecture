@@ -40,11 +40,10 @@ And for the Frontend itself self I'm gonna use React Native For the Customer App
 For now, Only Focus to Developing The Custumer Apps
 
 ##### PREVIEW APPS
-<div style="display:flex; flex-direction:column; align-items:center;">
-
-<img src="./.github/image/app_preview_v1.png" style="width:300px;">
-
-<small><b>Under Creating</b></small>
-</div>
+<p align="center">
+  <img src="./.github/image/app_preview_v1.png" width="300px">
+  <br>
+  <small><b>Under Creating</b></small>
+</p>
 
 it is tested on my device : Iphone 8 Plus
