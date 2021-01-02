@@ -40,7 +40,7 @@ For now, Only Focus to Developing The Custumer Apps
 ##### PREVIEW APPS
 <div style="display:flex; flex-direction:column; align-items:center;">
 
-<img src="./.github/image/app_preview_v1.png" style="width:30%;">
+<img src="./.github/image/app_preview_v1.png" style="width:300px;">
 
 <small><b>Under Creating</b></small>
 </div>
