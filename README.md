@@ -27,5 +27,10 @@ The purposes I create this project to challenge myself @xxidbr9 for building and
 - Redis
 - ElasticSearch
 
+#### The Structure
+<img src="https://raw.githubusercontent.com/xxidbr9/event-driven-architecture/main/.github/image/Service-architecture.png">
+
+
+#### Frontend
 And for the Frontend itself self I'm gonna use React Native For the Customer Apps, and use Next Js for WebBase App and React For Admin.
 For now, Only Focus to Developing The Custumer Apps
