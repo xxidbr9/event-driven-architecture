@@ -1,6 +1,6 @@
-<div style="text-align:center">
-<img src="./.github/image/Cornflix.svg" align="center">
-</div>
+<p align="center">
+  <img src="./.github/image/Cornflix.svg" align="center">
+</p>
 <h1 align="center">Cornflix Apps | Netflix Spin-off </h1>
 
 Project Base on Event Driven Architecture within Microservice and Atomic Design Pattern
