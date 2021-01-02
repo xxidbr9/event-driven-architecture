@@ -30,8 +30,16 @@ The purposes I create this project is to challenge myself [xxidbr9](https://gith
 #### The Structure
 <img src="https://raw.githubusercontent.com/xxidbr9/event-driven-architecture/main/.github/image/Service-architecture.png">
 
+the structure kinda looks so simple, but I'll add some more additional feature in upcoming commit
+
 
 #### Frontend
 And for the Frontend itself self I'm gonna use React Native For the Customer Apps, and use Next Js for WebBase App and React For Admin.
 For now, Only Focus to Developing The Custumer Apps
 
+##### PREVIEW APPS
+<div style="display:flex; flex-direction:column; align-items:center;">
+<img src="./.github/image/app_preview_v1.png">
+
+<small><b>Under Creating</b></small>
+</div>
