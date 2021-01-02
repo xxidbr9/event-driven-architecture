@@ -25,4 +25,4 @@ The purposes I create this project to challenge myself @xxidbr9 for building and
 - ElasticSearch
 
 And for the Frontend itself self I'm gonna use React Native For the Customer Apps, and use Next Js for WebBase App and React For Admin.
-It Still in Mind for now
+For now, it's Only Developing The Custumer Apps
