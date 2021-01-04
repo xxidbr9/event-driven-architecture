@@ -1,0 +1,58 @@
+# All db handle on here 
+
+version: "3.0"
+services:
+
+  # All Database setup 
+  # PostgreSQL 
+  sql_db:
+    container_name: sql_db
+    image: postgres
+    restart: always
+    networks:
+      - main-network
+    environment:
+      POSTGRES_PASSWORD : $(SQL_PASS)
+      POSTGRES_USER : $(SQL_USER)
+      POSTGRES_DB : $(SQL_DB)
+    volumes:
+      - ./Database/pg:/var/lib/postgresql/data
+
+  # Mongo Setup 
+  mongo_db:
+    container_name: mongo_db
+    image: mongo
+    restart: always
+    networks:
+      - main-network
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: $(MONGO_USER)
+      MONGO_INITDB_ROOT_PASSWORD: $(MONGO_PASS)
+    volumes:
+      - ./Database/mongodb:/data/db
+
+  # Setup Redis For Caching 
+  redis_db:
+    container_name: redis_db
+    image: redis
+    restart: always
+    networks:
+      - main-network
+    volumes:
+      - ./Database/redis:/usr/local/etc/redis
+
+  # /usr/share/elasticsearch/data
+  elastic_db:
+    container_name: elastic_db
+    image: elasticsearch
+    restart: always
+    networks:
+      - main-network
+    volumes:
+      - ./Database/elasticsearch:/usr/share/elasticsearch/data
+
+
+# Setup all network requirement 
+networks:
+  main-network:
+    driver: bridge
