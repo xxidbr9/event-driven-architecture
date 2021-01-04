@@ -41,7 +41,7 @@ services:
     volumes:
       - ./Database/redis:/usr/local/etc/redis
 
-  # /usr/share/elasticsearch/data
+  # Setup Elastic Search 
   elastic_db:
     container_name: elastic_db
     image: elasticsearch:7.10.1
